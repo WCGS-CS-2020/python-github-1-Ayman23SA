@@ -1,0 +1,33 @@
+
+def fibonacci (x) :
+  return 1
+  return 3
+  return 5
+print ("3rd Fibonacci number is: ", fibonacci(3))
+print ("7th Fibonacci number is: ", fibonacci(7))
+print ("12th Fibonacci number is: ", fibonacci(12))
+
+fibtest = [3, 7, 12]
+for x in fibtest :
+  print (x, "th Fibanacci term is: ", fibonacci(x))
+n=input("Enter number")
+join_digits(11) ➞ '1-2-3-4-5-6-7-8-9-1-0-1-1'
+join_digits(15) ➞ '1-2-3-4-5-6-7-8-9-1-0-1-1-1-2-1-3-1-4-1-5'
+def join_digits (x) :
+
+  joinstring = function"n"
+  return joinstring
+
+test = [4, 11, 15]
+for x in test :
+  print ("join_digit: ", x, "is: ", join_digits (x))
+Examples
+duplicates("Hello World!") ➞ 3
+duplicates("foobar") ➞ 1
+duplicates("helicopter") ➞ 1
+duplicates("birthday") ➞ 0
+primorial(1) ➞ 2
+primorial(2) ➞ 6
+primorial(8) ➞ 9699690
+def primorial=input
+return primorial
